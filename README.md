@@ -57,4 +57,5 @@ My name is Tyler Swann (aka oraqlle).
 ## ✏️ Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome](https://code-bytes.netlify.app/welcome/)
 <!-- BLOG-POST-LIST:END -->
