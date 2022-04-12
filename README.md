@@ -10,10 +10,10 @@ My name is Tyler Swann (aka oraqlle).
 - 🔭 I’m currently working on 
   - [The Cortex Library](https://github.com/oraqlle/CortexLib)
   - [The Trove Package Index](https://github.com/oraqlle/trove)
-  - [A C++ matrix](https://github.com/oraqlle/matrix)
-  - [The Processes Library](https://github.com/oraqlle/processes)
+  - [C++ matrix datastructure](https://github.com/cortexlib/matrix)
+  - [C++ composition library](https://github.com/cortexlib/compose)
 - 🏫 I'm currently a first year student at Monash University
-- 🌱 I’m currently learning Rust, Python, Haskell, Julia
+- 🌱 I’m currently learning C++, Rust, Python, Haskell, Julia
 - 📫 How to reach me: oraqlle@github.com
 - ⚡ Fun fact: I couldn't Python to work when I started programming and tried C++ instead and found it worked instantly and stcuk to it. 
 
@@ -49,6 +49,7 @@ My name is Tyler Swann (aka oraqlle).
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oraqlle&repo=CortexLib)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cortexlib&repo=matrix)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cortexlib&repo=chains)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cortexlib&repo=iterators)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oraqlle&repo=trove)](https://github.com/anuraghazra/github-readme-stats)
 
