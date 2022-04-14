@@ -15,7 +15,6 @@ My name is Tyler Swann (aka oraqlle).
 - 🏫 I'm currently a first year student at Monash University
 - 🌱 I’m currently learning C++, Rust, Python, Haskell, Julia
 - 📫 How to reach me: oraqlle@github.com
-- ⚡ Fun fact: I couldn't Python to work when I started programming and tried C++ instead and found it worked instantly and stcuk to it. 
 
 
 ## 🛠️ Languages and Tools
