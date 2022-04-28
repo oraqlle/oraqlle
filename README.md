@@ -47,11 +47,10 @@ My name is Tyler Swann (aka oraqlle).
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oraqlle&repo=CortexLib)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cortexlib&repo=matrix)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cortexlib&repo=chains)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cortexlib&repo=iterators)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oraqlle&repo=trove)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oraqlle)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ✏️ Blog Posts
 
