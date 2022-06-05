@@ -10,9 +10,9 @@ My name is Tyler Swann (aka oraqlle).
 - 🔭 I’m currently working on 
   - [The Cortex Library](https://github.com/cortexlib)
   - [The Trove Package Index](https://github.com/oraqlle/trove)
-  - [C++ matrix data structure](https://github.com/cortexlib/matrix)
+  - [C++ two dimensional data structure](https://github.com/cortexlib/box)
 - 🏫 I'm currently a first year student at Monash University
-- 🌱 I’m currently learning C++ (always), Rust, Python and APL
+- 🌱 I’m currently learning C++ (always), Rust, Python, Haskell and APL
 - 📕 I'm currently reading Programming Rust 2nd Edition 
 - 📫 How to reach me: oraqlle@github.com
 
