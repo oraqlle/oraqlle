@@ -7,14 +7,16 @@
 
 My name is Tyler Swann (aka oraqlle).
 
-- 🔭 I’m currently working on 
+- 🏗️ I’m currently working on 
   - [The Cortex Library](https://github.com/oraqlle/cortexlib)
   - [The Trove Package Index](https://github.com/trovepi/trove)
   - [C++ two dimensional data structure](https://github.com/oraqlle/cortexlib/tree/main/libs/box#readme)
-  - [Crank State Management Framework](https://github.com/oraqlle/crank)
+  - [Curly Programming Language](https://github.com/oraqlle/curly)
   - [Rock Programming Language](https://github.com/Champii/Rock)
-- 🏫 I'm currently a first year student at Monash University
-- 🌱 I’m currently learning C++ (always), Rust, Python, Haskell and APL
+- 📚 I've built
+  - [Crank State Management Framework](https://github.com/oraqlle/crank)
+- 🏫 I'm currently a first year Engineering/ and Computer Science student at Monash University
+- 🌱 I’m currently learning C++ (always), Rust, BQN, Library Design and Compiler Design
 - 📕 I'm currently reading Programming Rust 2nd Edition and Category Theory for Programmers
 - 📫 How to reach me: oraqlle@github.com
 
@@ -49,9 +51,10 @@ My name is Tyler Swann (aka oraqlle).
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oraqlle&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oraqlle&repo=cortexlib)](https://github.com/oraqlle/cortexlib)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trovepi&repo=trove)](https://github.com/trovepi/trove)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oraqlle&repo=crank)](https://github.com/oraqlle/crank)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Champii&repo=Rock)](https://github.com/Champii/Rock)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oraqlle&repo=curly)](https://github.com/oraqlle/curly)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trovepi&repo=trove)](https://github.com/trovepi/trove)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oraqlle)](https://github.com/anuraghazra/github-readme-stats)
 
