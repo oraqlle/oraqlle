@@ -15,10 +15,10 @@ My name is Tyler Swann (aka oraqlle).
   - [Rock Programming Language](https://github.com/Champii/Rock)
 - 📚 I've built
   - [Crank State Management Framework](https://github.com/oraqlle/crank)
-- 🏫 I'm currently a first year Engineering/ and Computer Science student at Monash University
-- 🌱 I’m currently learning C++ (always), Rust, BQN, Library Design and Compiler Design
+- 🏫 I'm currently a first year Engineering and Computer Science student at Monash University
+- 🌱 I’m currently learning the C++, Rust, BQN Languages as well as Library Design and Programming Language Design
 - 📕 I'm currently reading Programming Rust 2nd Edition and Category Theory for Programmers
-- 📫 How to reach me: oraqlle@github.com
+- 📫 How to reach me: tyler.swann05@gmail.com
 
 
 ## 🛠️ Languages and Tools
