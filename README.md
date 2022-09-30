@@ -11,7 +11,7 @@ My name is Tyler Swann (aka oraqlle).
   - [The Cortex Library](https://github.com/oraqlle/cortexlib)
   - [The Trove Package Index](https://github.com/trovepi/trove)
   - [C++ two dimensional data structure](https://github.com/oraqlle/cortexlib/tree/main/libs/box#readme)
-  - [Curly Programming Language](https://github.com/oraqlle/curly)
+  - [Lix Programming Language](https://github.com/oraqlle/lix)
   - [Rock Programming Language](https://github.com/Champii/Rock)
 - 📚 I've built
   - [Crank State Management Framework](https://github.com/oraqlle/crank)
