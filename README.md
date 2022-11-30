@@ -57,9 +57,3 @@ My name is Tyler Swann (aka oraqlle).
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trovepi&repo=trove)](https://github.com/trovepi/trove)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oraqlle)](https://github.com/anuraghazra/github-readme-stats)
-
-## ✏️ Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Welcome](https://code-bytes.netlify.app/welcome/)
-<!-- BLOG-POST-LIST:END -->
