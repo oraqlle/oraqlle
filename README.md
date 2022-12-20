@@ -1,5 +1,5 @@
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)
-![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white&style=for-the-badge)
+<!-- ![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white&style=for-the-badge) -->
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=oraqlle.id&left_color=black&right_color=orange)
 
