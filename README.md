@@ -9,14 +9,12 @@ My name is Tyler Swann (aka oraqlle).
 
 - 🏗️ I’m currently working on 
   - [The Cortex Library](https://github.com/oraqlle/cortexlib)
-  - [The Trove Package Index](https://github.com/trovepi/trove)
-  - [C++ two dimensional data structure](https://github.com/oraqlle/cortexlib/tree/main/libs/box#readme)
   - [Lix Programming Language](https://github.com/oraqlle/lix)
   - [Rock Programming Language](https://github.com/Champii/Rock)
-- 📚 I've built
   - [Crank State Management Framework](https://github.com/oraqlle/crank)
-- 🏫 I'm currently a first year Engineering and Computer Science student at Monash University
-- 🌱 I’m currently learning the C++, Rust, BQN Languages as well as Library Design and Programming Language Design
+  <!-- - 📚 I've built ^^ -->
+- 🏫 I'm currently a first year (Software) Engineering and Computer Science student at Monash University
+- 🌱 I’m currently learning the C++, Rust, Julia, BQN programming languages along with programming language design
 - 📕 I'm currently reading Programming Rust 2nd Edition and Category Theory for Programmers
 - 📫 How to reach me: tyler.swann05@gmail.com
 
