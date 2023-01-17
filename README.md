@@ -52,6 +52,6 @@ My name is Tyler Swann (aka oraqlle).
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oraqlle&repo=crank)](https://github.com/oraqlle/crank)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Champii&repo=Rock)](https://github.com/Champii/Rock)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oraqlle&repo=lix)](https://github.com/oraqlle/curly)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trovepi&repo=trove)](https://github.com/trovepi/trove)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oraqlle&repo=trove)](https://github.com/oraqlle/trove)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oraqlle)](https://github.com/anuraghazra/github-readme-stats)
