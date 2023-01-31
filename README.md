@@ -3,17 +3,15 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=oraqlle.id&left_color=black&right_color=orange)
 
-# Hi there 👋
-
-My name is Tyler Swann (aka oraqlle).
+Hi, my name is Tyler Swann (aka oraqlle).
 
 - 🏗️ I’m currently working on 
   - [The Cortex Library](https://github.com/oraqlle/cortexlib)
   - [Lix Programming Language](https://github.com/oraqlle/lix)
-  - [Rock Programming Language](https://github.com/Champii/Rock)
   - [Crank State Management Framework](https://github.com/oraqlle/crank)
-  <!-- - 📚 I've built ^^ -->
-- 🏫 I'm currently a first year (Software) Engineering and Computer Science student at Monash University
+- 📚 I've built 
+  - [A Lispy Intepreter](https://github.com/oraqlle/lispy)
+- 🏫 I'm currently a second year Software Engineering and Computer Science student at Monash University
 - 🌱 I’m currently learning the C++, Rust, Julia, BQN programming languages along with programming language design
 - 📕 I'm currently reading Programming Rust 2nd Edition and Category Theory for Programmers
 - 📫 How to reach me: tyler.swann05@gmail.com
