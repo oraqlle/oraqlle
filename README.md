@@ -16,6 +16,7 @@ Hi, my name is Tyler Swann (aka oraqlle).
 - 🌱 I’m currently learning the C++ (always), Rust, Julia, BQN programming languages.
 - 🤔 I am interested in programming language design, compilers and developer tooling.
 - 📕 I'm currently reading Programming Rust 2nd Edition and Category Theory for Programmers.
+- ✏️ Blog website [codebytes](https://codebytes.dev)
 - 📫 How to reach me: tyler.swann05@gmail.com
 
 
