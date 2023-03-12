@@ -11,9 +11,10 @@ Hi, my name is Tyler Swann (aka oraqlle).
   - [Crank State Management Framework](https://github.com/oraqlle/crank)
 - 📚 I've built 
   - [A Lispy Intepreter](https://github.com/oraqlle/lispy)
-- 🏫 I'm currently a second year Software Engineering and Computer Science student at Monash University
-- 🌱 I’m currently learning the C++, Rust, Julia, BQN programming languages along with programming language design
-- 📕 I'm currently reading Programming Rust 2nd Edition and Category Theory for Programmers
+- 🏫 I'm currently a second year Software Engineering and Computer Science student at Monash University.
+- 🌱 I’m currently learning the C++ (always), Rust, Julia, BQN programming languages.
+- 🤔 I am interested in programming language design, compilers and developer tooling.
+- 📕 I'm currently reading Programming Rust 2nd Edition and Category Theory for Programmers.
 - 📫 How to reach me: tyler.swann05@gmail.com
 
 
@@ -48,8 +49,7 @@ Hi, my name is Tyler Swann (aka oraqlle).
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oraqlle&repo=cortexlib)](https://github.com/oraqlle/cortexlib)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oraqlle&repo=crank)](https://github.com/oraqlle/crank)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Champii&repo=Rock)](https://github.com/Champii/Rock)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oraqlle&repo=lix)](https://github.com/oraqlle/curly)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oraqlle&repo=lix)](https://github.com/oraqlle/lix)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oraqlle&repo=trove)](https://github.com/oraqlle/trove)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oraqlle)](https://github.com/anuraghazra/github-readme-stats)
