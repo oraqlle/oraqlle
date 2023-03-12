@@ -6,6 +6,7 @@
 Hi, my name is Tyler Swann (aka oraqlle).
 
 - 🏗️ I’m currently working on 
+  - [Pong](https://github.com/oraqlle/pong)
   - [The Cortex Library](https://github.com/oraqlle/cortexlib)
   - [Lix Programming Language](https://github.com/oraqlle/lix)
 - 📚 I've built 
