@@ -8,9 +8,10 @@ Hi, my name is Tyler Swann (aka oraqlle).
 - 🏗️ I’m currently working on 
   - [The Cortex Library](https://github.com/oraqlle/cortexlib)
   - [Lix Programming Language](https://github.com/oraqlle/lix)
-  - [Crank State Management Framework](https://github.com/oraqlle/crank)
 - 📚 I've built 
   - [A Lispy Intepreter](https://github.com/oraqlle/lispy)
+  - [Crank - A State Management Framework](https://github.com/oraqlle/crank)
+  - [SV - A sorting Algorithm Visualizer using SFML](https://github.com/oraqlle/sorting-visualizer)
 - 🏫 I'm currently a second year Software Engineering and Computer Science student at Monash University.
 - 🌱 I’m currently learning the C++ (always), Rust, Julia, BQN programming languages.
 - 🤔 I am interested in programming language design, compilers and developer tooling.
