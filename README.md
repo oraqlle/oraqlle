@@ -1,7 +1,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/tylerswann05/)
 <!-- ![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white&style=for-the-badge) -->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=oraqlle.id&left_color=black&right_color=orange)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=oraqlle.id&left_color=black&right_color=orange) -->
 
 Hi, my name is Tyler Swann (aka oraqlle).
 
@@ -127,5 +127,5 @@ Linux                    5 hrs 40 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 <details>
    <summary> 🦾 Profile 3D  Contribution Graphic </summary>
    <br/>
-   <img alt="oraqlle's Graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+   <img alt="oraqlle's Graph" src="./profile-3d-contrib/profile-south-season-animate.svg" width="100%"/>
 </details>
