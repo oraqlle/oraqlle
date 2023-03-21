@@ -17,7 +17,7 @@ Hi, my name is Tyler Swann (aka oraqlle).
 - 🌱 I’m currently learning the C++ (always), Rust, Julia, BQN programming languages.
 - 🤔 I am interested in programming language design, compilers and developer tooling.
 - 📕 I'm currently reading Programming Rust 2nd Edition and Category Theory for Programmers.
-- ✏️ Blog website [codebytes](https://codebytes.dev)
+- ✏️ Blog website [codebytes](https://codebytes.netlify.app)
 - 📫 How to reach me: tyler.swann05@gmail.com
 
 
@@ -53,6 +53,6 @@ Hi, my name is Tyler Swann (aka oraqlle).
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oraqlle&repo=cortexlib)](https://github.com/oraqlle/cortexlib)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oraqlle&repo=crank)](https://github.com/oraqlle/crank)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oraqlle&repo=lix)](https://github.com/oraqlle/lix)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oraqlle&repo=trove)](https://github.com/oraqlle/trove)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oraqlle&repo=trove)](https://github.com/oraqlle/codebytes)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oraqlle)](https://github.com/anuraghazra/github-readme-stats)
