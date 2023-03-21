@@ -78,7 +78,7 @@ Hi, my name is Tyler Swann (aka oraqlle).
 <details>
    <summary> 🕗 WakaTime </summary>
    </br>
-   Total time coded since May 9 2022
+   Total time coded since March 21 2023
    </br> 
    <img alt="Total time coded since March 21 2023" src="https://wakatime.com/badge/user/ee2709af-fc5f-498b-aaa1-3ea47bf12a00.svg?style=for-the-badge">
    </br></br>
@@ -127,5 +127,5 @@ Linux                    5 hrs 40 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 <details>
    <summary> 🦾 Profile 3D  Contribution Graphic </summary>
    <br/>
-   <img alt="oraqlle's Graph" src="./3d-contrib/profile-night-rainbow.svg" width="100%"/>
+   <img alt="oraqlle's Graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
 </details>
