@@ -53,7 +53,7 @@ Hi, my name is Tyler Swann (aka oraqlle).
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oraqlle&repo=cortexlib)](https://github.com/oraqlle/cortexlib)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oraqlle&repo=crank)](https://github.com/oraqlle/crank)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oraqlle&repo=sorting-visualizer)](https://github.com/oraqlle/sorting-visualizer)
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oraqlle&repo=lix)](https://github.com/oraqlle/lix) -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oraqlle&repo=codebytes)](https://github.com/oraqlle/codebytes)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oraqlle&repo=lix)](https://github.com/oraqlle/lix) -->
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oraqlle)](https://github.com/anuraghazra/github-readme-stats)
