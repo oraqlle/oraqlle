@@ -6,12 +6,15 @@
 Hi, my name is Tyler Swann (aka oraqlle).
 
 - 🏗️ I’m currently working on 
+  - [C++ Container Testing](https://github.com/oraqlle/cxx-container-testing)
+  - [The C Book](https://github.com/oraqlle/C-Book)
+  - [The C++ Book](https://github.com/oraqlle/book.cpp)
+  - [Crank - An Infinite State Machine](https://github.com/oraqlle/crank)
   - [Pong](https://github.com/oraqlle/pong)
   - [The Cortex Library](https://github.com/oraqlle/cortexlib)
   - [Lix Programming Language](https://github.com/oraqlle/lix)
 - 📚 I've built 
   - [A Lispy Intepreter](https://github.com/oraqlle/lispy)
-  - [Crank - A State Management Framework](https://github.com/oraqlle/crank)
   - [SV - A sorting Algorithm Visualizer using SFML](https://github.com/oraqlle/sorting-visualizer)
   - [CodeBytes - Blog and project portfolio](https://github.com/oraqlle/codebytes)
 - 🏫 I'm currently a second year Software Engineering and Computer Science student at Monash University.
