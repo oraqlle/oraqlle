@@ -18,7 +18,7 @@ Hi, my name is Tyler Swann (aka oraqlle).
   - [SV - A sorting Algorithm Visualizer using SFML](https://github.com/oraqlle/sorting-visualizer)
   - [CodeBytes - Blog and project portfolio](https://github.com/oraqlle/codebytes)
 - 🏫 I'm currently a second year Software Engineering and Computer Science student at Monash University.
-- 🌱 I’m currently learning the C++ (always), Rust, Elixir, BQN programming languages.
+- 🌱 I’m currently learning the C++, Rust, Go.
 - 🤔 I am interested in programming language design, compilers and developer tooling.
 - 📕 I'm currently reading Programming Rust 2nd Edition and Category Theory for Programmers.
 - ✏️ Blog website [CodeBytes](https://codebytes.netlify.app)
