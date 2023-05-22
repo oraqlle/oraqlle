@@ -18,9 +18,14 @@ Hi, my name is Tyler Swann (aka oraqlle).
   - [SV - A sorting Algorithm Visualizer using SFML](https://github.com/oraqlle/sorting-visualizer)
   - [CodeBytes - Blog and project portfolio](https://github.com/oraqlle/codebytes)
 - 🏫 I'm currently a second year Software Engineering and Computer Science student at Monash University.
-- 🌱 I’m currently learning the C++, Rust, Go.
+- 🔍 Languages I am experienced in C++, C, Python, Julia and MATLAB
+- 🌱 Languages I am currently learning are Rust, Zig, Go and Elixir.
+- 🗒️ Languages I am familiar with Bash, Haskell, Java (Android), APL and BQN
+- 🔨 Tools I am experienced with are VSCode, Git, GitHub, the GCC Toolchain, WSL and Visual Studio
+- ⚙️ Tools I am currently learning are Poac, Clang, Cmake and Ninja
+- 🎛️ Tool I am familiar with are Android Studio, Make
 - 🤔 I am interested in programming language design, compilers and developer tooling.
-- 📕 I'm currently reading Programming Rust 2nd Edition and Category Theory for Programmers.
+- 📕 I'm currently reading Category Theory for Programmers and Programming Rust 2nd Edition.
 - ✏️ Blog website [CodeBytes](https://codebytes.netlify.app)
 - 📫 How to reach me: tyler.swann05@gmail.com
 
@@ -28,30 +33,52 @@ Hi, my name is Tyler Swann (aka oraqlle).
 ## 🛠️ Languages and Tools :
 
 <p>
+  <!-- Lang. Know -->
   <!-- C++ -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
-  <!-- Rust -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
-  <!-- Haskell -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" title="Haskell" alt="Haskell" width="40" height="40"/>&nbsp;
-  <!-- VSCode -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode UI" alt="VSCode UI" width="40" height="40"/>&nbsp;
   <!-- C -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <!-- Bash -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash " width="40" height="40"/>&nbsp;
   <!-- Python -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <!-- Julia -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg" title="Julia" alt="Julia" width="40" height="40"/>&nbsp;
+  <!-- MATLAB -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="40" height="40"/>&nbsp;
+  <!-- Lang. Learning -->
+  <!-- Rust -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
+  <!-- Zig -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/zig/zig-original.svg" title="Zig" alt="Zig" width="40" height="40"/>&nbsp;
+  <!-- Go -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg"  title="Go" alt="Go" width="40" height="40"/>&nbsp;
   <!-- Elixir -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" title="Julia" alt="Julia" width="40" height="40"/>&nbsp;
-  <!-- GCC -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" title="GCC" alt="GCC" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" title="Julia" alt="Julia" width="40" height="40"/>&nbsp;  
+  <!-- Lang. Familiar -->
+  <!-- Bash -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash " width="40" height="40"/>&nbsp;
+  <!-- Haskell -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" title="Haskell" alt="Haskell" width="40" height="40"/>&nbsp;
+  <!-- Java -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java (Android)" alt="Java (Android)" width="40" height="40"/>&nbsp;
+  <!-- Tool Know -->
+  <!-- VSCode -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
   <!-- Git -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <!-- GitHub -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <!-- GCC -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" title="GCC" alt="GCC" width="40" height="40"/>&nbsp;
   <!-- Linux -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <!-- Visual Studio -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
+  <!-- Tool Learning -->
+  <!-- Cmake -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="Cmake" alt="Cmake" width="40" height="40"/>&nbsp;
+  <!-- Tool Familiar -->
+  <!-- Android Studio -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
 </p>
 
 <img alt="oraqlle's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=oraqlle&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&border_color=1F222E" height="198px"/>
