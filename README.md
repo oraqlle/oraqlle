@@ -5,24 +5,26 @@
 
 Hi, my name is Tyler Swann (aka oraqlle).
 
-- 🏗️ I’m currently working on 
-  - [C++ Container Testing](https://github.com/oraqlle/cxx-container-testing)
+- 🏗️ I’m currently working on
+  - [Advent of Code](https://github.com/oraqlle/AoC)
+  - [2048](https://github.com/oraqlle/2048)
   - [The C Book](https://github.com/oraqlle/C-Book)
   - [The C++ Book](https://github.com/oraqlle/book.cpp)
-  - [Crank - An Infinite State Machine](https://github.com/oraqlle/crank)
-  - [Pong](https://github.com/oraqlle/pong)
   - [The Cortex Library](https://github.com/oraqlle/cortexlib)
   - [Lix Programming Language](https://github.com/oraqlle/lix)
 - 📚 I've built 
   - [A Lispy Intepreter](https://github.com/oraqlle/lispy)
   - [SV - A sorting Algorithm Visualizer using SFML](https://github.com/oraqlle/sorting-visualizer)
+  - [C++ Container Testing](https://github.com/oraqlle/cxx-container-testing)
+  - [Crank - An Infinite State Machine](https://github.com/oraqlle/crank)
+  - [Pong](https://github.com/oraqlle/pong)
   - [CodeBytes - Blog and project portfolio](https://github.com/oraqlle/codebytes)
 - 🏫 I'm currently a second year Software Engineering and Computer Science student at Monash University.
 - 🔍 Languages I am experienced in C++, C, Python, Julia and MATLAB
-- 🌱 Languages I am currently learning are Rust, Zig, Go and Elixir.
+- 🌱 Languages I am currently learning are Rust, Zig, Elixir, Ocaml and Go.
 - 🗒️ Languages I am familiar with Bash, Haskell, Java (Android), APL and BQN
 - 🔨 Tools I am experienced with are VSCode, Git, GitHub, the GCC Toolchain, WSL and Visual Studio
-- ⚙️ Tools I am currently learning are Poac, Clang, Cmake and Ninja
+- ⚙️ Tools I am currently learning are Poac, Clang, Meson and Ninja
 - 🎛️ Tool I am familiar with are Android Studio, Make
 - 🤔 I am interested in programming language design, compilers and developer tooling.
 - 📕 I'm currently reading Category Theory for Programmers and Programming Rust 2nd Edition.
@@ -35,7 +37,7 @@ Hi, my name is Tyler Swann (aka oraqlle).
 <p>
   <!-- Lang. Know -->
   <!-- C++ -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <!-- C -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <!-- Python -->
@@ -49,10 +51,12 @@ Hi, my name is Tyler Swann (aka oraqlle).
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
   <!-- Zig -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/zig/zig-original.svg" title="Zig" alt="Zig" width="40" height="40"/>&nbsp;
-  <!-- Go -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg"  title="Go" alt="Go" width="40" height="40"/>&nbsp;
   <!-- Elixir -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" title="Julia" alt="Julia" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" title="Elixir" alt="Elixir" width="40" height="40"/>&nbsp;
+  <!-- Ocaml -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ocaml/ocaml-original.svg" title="Ocaml" alt="Ocaml" width="40" height="40"/>&nbsp;
+  <!-- Go -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg"  title="Go" alt="Go" width="40" height="40"/>&nbsp;  
   <!-- Lang. Familiar -->
   <!-- Bash -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash " width="40" height="40"/>&nbsp;
@@ -100,7 +104,15 @@ Hi, my name is Tyler Swann (aka oraqlle).
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oraqlle&repo=sorting-visualizer)](https://github.com/oraqlle/sorting-visualizer)
 
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oraqlle&repo=pong)](https://github.com/oraqlle/pong)
+
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oraqlle&repo=codebytes)](https://github.com/oraqlle/codebytes)
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oraqlle&repo=AoC)](https://github.com/oraqlle/AoC)
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oraqlle&repo=2048)](https://github.com/oraqlle/2048)
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oraqlle&repo=sorting-visualizer)](https://github.com/oraqlle/sorting-visualizer)
 
   <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oraqlle&repo=lix)](https://github.com/oraqlle/lix) -->
 </details>
