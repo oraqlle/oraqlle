@@ -8,10 +8,10 @@ Hi, my name is Tyler Swann (aka oraqlle).
 - 🏗️ I’m currently working on
   - [Advent of Code](https://github.com/oraqlle/AoC)
   - [2048](https://github.com/oraqlle/2048)
-  - [The C Book](https://github.com/oraqlle/C-Book)
-  - [The C++ Book](https://github.com/oraqlle/book.cpp)
-  - [The Cortex Library](https://github.com/oraqlle/cortexlib)
-  - [Lix Programming Language](https://github.com/oraqlle/lix)
+  <!-- - [The C Book](https://github.com/oraqlle/C-Book) -->
+  <!-- - [The C++ Book](https://github.com/oraqlle/book.cpp) -->
+  <!-- - [The Cortex Library](https://github.com/oraqlle/cortexlib) -->
+  <!-- - [Lix Programming Language](https://github.com/oraqlle/lix) -->
 - 📚 I've built 
   - [A Lispy Intepreter](https://github.com/oraqlle/lispy)
   - [SV - A sorting Algorithm Visualizer using SFML](https://github.com/oraqlle/sorting-visualizer)
