@@ -22,14 +22,14 @@ Hi, my name is Tyler Swann (aka oraqlle).
 - 🏫 I'm currently a second year Software Engineering and Computer Science student at Monash University.
 - 🔍 Languages I am experienced in C++, C, Python, Julia and MATLAB
 - 🌱 Languages I am currently learning are Rust, Zig, Elixir, Ocaml and Go.
-- 🗒️ Languages I am familiar with Bash, Haskell, Java (Android), APL and BQN
+- 🗒️ Languages I am familiar with Bash, Haskell, Java, APL and BQN
 - 🔨 Tools I am experienced with are VSCode, Git, GitHub, the GCC Toolchain, WSL and Visual Studio
 - ⚙️ Tools I am currently learning are Poac, Clang, Meson and Ninja
 - 🎛️ Tool I am familiar with are Android Studio, Make
 - 🤔 I am interested in programming language design, compilers and developer tooling.
 - 📕 I'm currently reading Category Theory for Programmers and Programming Rust 2nd Edition.
 - ✏️ Blog website [CodeBytes](https://codebytes.netlify.app)
-- 📫 How to reach me: tyler.swann05@gmail.com
+- 📫 How to reach me: oraqlle.net@gmail.com
 
 
 ## 🛠️ Languages and Tools :
