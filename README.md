@@ -9,7 +9,7 @@ Hi, my name is Tyler Swann (aka oraqlle).
   - [Advent of Code](https://github.com/oraqlle/AoC)
   - [2048](https://github.com/oraqlle/2048)
   <!-- - [The C Book](https://github.com/oraqlle/C-Book) -->
-  <!-- - [The C++ Book](https://github.com/oraqlle/book.cpp) -->
+  - [The C++ Book](https://github.com/oraqlle/book.cpp)
   <!-- - [The Cortex Library](https://github.com/oraqlle/cortexlib) -->
   <!-- - [Lix Programming Language](https://github.com/oraqlle/lix) -->
 - 📚 I've built 
@@ -20,14 +20,15 @@ Hi, my name is Tyler Swann (aka oraqlle).
   - [Pong](https://github.com/oraqlle/pong)
   - [CodeBytes - Blog and project portfolio](https://github.com/oraqlle/codebytes)
 - 🏫 I'm currently a second year Software Engineering and Computer Science student at Monash University.
-- 🔍 Languages I am experienced in C++, C, Python, Julia and MATLAB
-- 🌱 Languages I am currently learning are Rust, Zig, Elixir, Ocaml and Go.
-- 🗒️ Languages I am familiar with Bash, Haskell, Java, APL and BQN
-- 🔨 Tools I am experienced with are VSCode, Git, GitHub, the GCC Toolchain, WSL and Visual Studio
-- ⚙️ Tools I am currently learning are Poac, Clang, Meson and Ninja
-- 🎛️ Tool I am familiar with are Android Studio, Make
+- 🛠️ Languages I am experienced in C++, C, Python, Julia and MATLAB
+- 🌱 Languages I am currently learning/want to learn more about are Ocaml and Rust.
+- 🔍 Languages I want to learn more about are Zig, Haskell, Elixir, Go, APL, BQN and Uiua.
+- 🗒️ Languages I am familiar with are Bash, Java, MATLAB.
+- 🔨 Tools I am experienced with are VSCode, Git, GitHub, the GCC Toolchain, WSL.
+- ⚙️ Tools I am currently learning are Clang, CMake.
+- 🎛️ Tool I am familiar with are Android Studio, GNU Make, Visual Studio.
 - 🤔 I am interested in programming language design, compilers and developer tooling.
-- 📕 I'm currently reading Category Theory for Programmers and Programming Rust 2nd Edition.
+- 📕 I'm currently reading O'Reilly's Programming Rust 2nd Edition.
 - ✏️ Blog website [CodeBytes](https://codebytes.netlify.app)
 - 📫 How to reach me: oraqlle.net@gmail.com
 
@@ -49,19 +50,20 @@ Hi, my name is Tyler Swann (aka oraqlle).
   <!-- Lang. Learning -->
   <!-- Rust -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
-  <!-- Zig -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/zig/zig-original.svg" title="Zig" alt="Zig" width="40" height="40"/>&nbsp;
-  <!-- Elixir -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" title="Elixir" alt="Elixir" width="40" height="40"/>&nbsp;
   <!-- Ocaml -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/ocaml/ocaml-original.svg" title="Ocaml" alt="Ocaml" width="40" height="40"/>&nbsp;
-  <!-- Go -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg"  title="Go" alt="Go" width="40" height="40"/>&nbsp;  
+  <!-- Lang. Want to Learn -->
+  <!-- Zig -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/zig/zig-original.svg" title="Zig" alt="Zig" width="40" height="40"/>&nbsp;
+  <!-- Haskell -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" title="Haskell" alt="Haskell" width="40" height="40"/>&nbsp;
+  <!-- Elixir -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" title="Elixir" alt="Elixir" width="40" height="40"/>&nbsp;
+   <!-- Go -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg"  title="Go" alt="Go" width="40" height="40"/>&nbsp;
   <!-- Lang. Familiar -->
   <!-- Bash -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash " width="40" height="40"/>&nbsp;
-  <!-- Haskell -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" title="Haskell" alt="Haskell" width="40" height="40"/>&nbsp;
   <!-- Java -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java (Android)" alt="Java (Android)" width="40" height="40"/>&nbsp;
   <!-- Tool Know -->
@@ -75,14 +77,14 @@ Hi, my name is Tyler Swann (aka oraqlle).
   <img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" title="GCC" alt="GCC" width="40" height="40"/>&nbsp;
   <!-- Linux -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <!-- Visual Studio -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
   <!-- Tool Learning -->
-  <!-- Cmake -->
+  <!-- CMake -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="Cmake" alt="Cmake" width="40" height="40"/>&nbsp;
   <!-- Tool Familiar -->
   <!-- Android Studio -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
+  <!-- Visual Studio -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
 </p>
 
 <img alt="oraqlle's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=oraqlle&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&border_color=1F222E" height="198px"/>
