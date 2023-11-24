@@ -21,7 +21,7 @@ Hi, my name is Tyler Swann (aka oraqlle).
   - [CodeBytes - Blog and project portfolio](https://github.com/oraqlle/codebytes)
 - 🏫 I'm currently a second year Software Engineering and Computer Science student at Monash University.
 - 🛠️ Languages I am experienced in C++, C, Python, Julia and MATLAB
-- 🌱 Languages I am currently learning/want to learn more about are Ocaml and Rust.
+- 🌱 Languages I am currently learning/want to learn more about are OCaml and Rust.
 - 🔍 Languages I want to learn more about are Zig, Haskell, Elixir, Go, APL, BQN and Uiua.
 - 🗒️ Languages I am familiar with are Bash, Java, MATLAB.
 - 🔨 Tools I am experienced with are VSCode, Git, GitHub, the GCC Toolchain, WSL.
