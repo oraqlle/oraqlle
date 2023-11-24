@@ -16,8 +16,6 @@ Hi, my name is Tyler Swann (aka oraqlle).
   - [A Lispy Intepreter](https://github.com/oraqlle/lispy)
   - [SV - A sorting Algorithm Visualizer using SFML](https://github.com/oraqlle/sorting-visualizer)
   - [C++ Container Testing](https://github.com/oraqlle/cxx-container-testing)
-  - [Crank - An Infinite State Machine](https://github.com/oraqlle/crank)
-  - [Pong](https://github.com/oraqlle/pong)
   - [CodeBytes - Blog and project portfolio](https://github.com/oraqlle/codebytes)
 - 🏫 I'm currently a second year Software Engineering and Computer Science student at Monash University.
 - 🛠️ Languages I am experienced in C++, C, Python, Julia and MATLAB
@@ -99,22 +97,20 @@ Hi, my name is Tyler Swann (aka oraqlle).
 <details>
   <summary> ⚙️ Projects </summary>
   <br/>
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oraqlle&repo=cortexlib)](https://github.com/oraqlle/cortexlib)
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oraqlle&repo=crank)](https://github.com/oraqlle/crank)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oraqlle&repo=lispy)](https://github.com/oraqlle/lispy)
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oraqlle&repo=cxx-container-testing)](https://github.com/oraqlle/cxx-container-testing)
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oraqlle&repo=sorting-visualizer)](https://github.com/oraqlle/sorting-visualizer)
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oraqlle&repo=pong)](https://github.com/oraqlle/pong)
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oraqlle&repo=codebytes)](https://github.com/oraqlle/codebytes)
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oraqlle&repo=AoC)](https://github.com/oraqlle/AoC)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oraqlle&repo=cpp-book)](https://github.com/oraqlle/cpp-book)
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oraqlle&repo=2048)](https://github.com/oraqlle/2048)
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oraqlle&repo=sorting-visualizer)](https://github.com/oraqlle/sorting-visualizer)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oraqlle&repo=AoC)](https://github.com/oraqlle/AoC)
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oraqlle&repo=codebytes)](https://github.com/oraqlle/codebytes)
 
   <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oraqlle&repo=lix)](https://github.com/oraqlle/lix) -->
 </details>
