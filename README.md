@@ -47,7 +47,7 @@ Hi, my name is Tyler Swann (aka oraqlle).
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="40" height="40"/>&nbsp;
   <!-- Lang. Learning -->
   <!-- Rust -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
   <!-- Ocaml -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/ocaml/ocaml-original.svg" title="Ocaml" alt="Ocaml" width="40" height="40"/>&nbsp;
   <!-- Lang. Want to Learn -->
