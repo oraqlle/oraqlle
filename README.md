@@ -1,4 +1,4 @@
-### Oraqlle
+### oraqlle
 
 Just a dude who loves writing (and talking about) software.
 
@@ -10,6 +10,7 @@ Just a dude who loves writing (and talking about) software.
 - Current work:
   - [Lox Interpreter in Java: jlox](https://github.com/oraqlle/jlox)
 - Noteworthy work:
+  - [Base64 Decoder in Zig](https://github.com/oraqlle/Base64Decoder)
   - [Sorting Algorithm Visualizer](https://github.com/oraqlle/sorting-visualizer)
   - [Terminal based 2048 (in a few languages)](https://github.com/oraqlle/2048)
   - Co-author of MDN's [HPC Training Book](https://github.com/MonashDeepNeuron/HPC-Training)
