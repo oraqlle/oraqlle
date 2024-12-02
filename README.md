@@ -4,7 +4,7 @@ Just a dude who loves writing (and talking about) software.
 
 #### Info
 
-- CEO of [Monash DeepNeuron](https://www.deepneuron.org/) for 2023/2024
+- ex-CEO of [Monash DeepNeuron](https://www.deepneuron.org/) for 2023/2024
 - Third year student at Monash University
 - Interested in language design, compilers/interpreters and game dev.<!--, shaders, assembly and  --> 
 - Current work:
