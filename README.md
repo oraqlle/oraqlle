@@ -1,14 +1,15 @@
 ### oraqlle
 
-Just a dude who loves writing (and talking about) software.
+Just a dude writing software.
 
 #### Info
 
 - ex-CEO of [Monash DeepNeuron](https://www.deepneuron.org/) for 2023/2024
-- Third year student at Monash University
-- Interested in language design, compilers/interpreters and game dev.<!--, shaders, assembly and  --> 
+- Fourth year student at Monash University
+- Interested in game dev, programming language design, compilers/interpreters, operating systems and graphic shaders.<!-- assembly  --> 
 - Current work:
-  - [clox: Bytecode Interpreter for Lox written in C](https://github.com/oraqlle/clox) 
+  - [clox: Bytecode Interpreter for Lox written in C](https://github.com/oraqlle/clox)
+  - [The C++ Programming Language: online book teaching C++](https://oraqlle.github.io/cpp-book)
 - Noteworthy work:
   - [Base64 Decoder in Zig](https://github.com/oraqlle/Base64Decoder)
   - [Sorting Algorithm Visualizer](https://github.com/oraqlle/sorting-visualizer)
