@@ -17,5 +17,10 @@ Just a dude writing software.
   - Co-author of MDN's [HPC Training Book](https://github.com/MonashDeepNeuron/HPC-Training)
   - [C++ Standard Container Benchmarker](https://github.com/oraqlle/cxx-container-testing)
   - [jlox: Tree-Walking Interpreter for Lox Written in Java](https://github.com/oraqlle/jlox)
+- Shader and VFX Demos Unreal Engine 5
+  - [Collection of Shaders, Particle Effects and PCG]()
+  - [Lost Memory Scene](https://github.com/oraqlle/lost-memory-scene)
+  - [Portal Particles](https://github.com/oraqlle/portal-particles)
+  - [Endless PCG Runner](https://github.com/oraqlle/endless-pcg-runner)
 
 <!-- <img alt="oraqlle's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=oraqlle&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&border_color=1F222E" height="198px"/> -->
