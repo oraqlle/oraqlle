@@ -18,7 +18,7 @@ Just a dude writing software.
   - [C++ Standard Container Benchmarker](https://github.com/oraqlle/cxx-container-testing)
   - [jlox: Tree-Walking Interpreter for Lox Written in Java](https://github.com/oraqlle/jlox)
 - Shader and VFX Demos Unreal Engine 5
-  - [Collection of Shaders, Particle Effects and PCG]()
+  - [Collection of Shaders, Particle Effects and PCG](https://github.com/oraqlle/weekly-shader-labs)
   - [Lost Memory Scene](https://github.com/oraqlle/lost-memory-scene)
   - [Portal Particles](https://github.com/oraqlle/portal-particles)
   - [Endless PCG Runner](https://github.com/oraqlle/endless-pcg-runner)
