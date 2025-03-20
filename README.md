@@ -8,9 +8,10 @@ Just a dude writing software.
 - Fourth year student at Monash University
 - Interested in game dev, programming language design, compilers/interpreters, operating systems and graphic shaders.<!-- assembly  --> 
 - Current work:
-  - [clox: Bytecode Interpreter for Lox written in C](https://github.com/oraqlle/clox)
+  - [cxx-lox: Bytecode Interpreter for Lox written in C++](https://github.com/oraqlle/cxx-lox)
   - [The C++ Programming Language: online book teaching C++](https://oraqlle.github.io/cpp-book)
 - Noteworthy work:
+  - [clox: Bytecode Interpreter for Lox written in C](https://github.com/oraqlle/clox)
   - [Base64 Decoder in Zig](https://github.com/oraqlle/Base64Decoder)
   - [Sorting Algorithm Visualizer](https://github.com/oraqlle/sorting-visualizer)
   - [Terminal based 2048 (in a few languages)](https://github.com/oraqlle/2048)
