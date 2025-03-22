@@ -12,12 +12,13 @@ Just a dude writing software.
   - [The C++ Programming Language: online book teaching C++](https://oraqlle.github.io/cpp-book)
 - Noteworthy work:
   - [clox: Bytecode Interpreter for Lox written in C](https://github.com/oraqlle/clox)
+  - [jlox: Tree-Walking Interpreter for Lox Written in Java](https://github.com/oraqlle/jlox)
   - [Base64 Decoder in Zig](https://github.com/oraqlle/Base64Decoder)
   - [Sorting Algorithm Visualizer](https://github.com/oraqlle/sorting-visualizer)
   - [Terminal based 2048 (in a few languages)](https://github.com/oraqlle/2048)
   - Co-author of MDN's [HPC Training Book](https://github.com/MonashDeepNeuron/HPC-Training)
   - [C++ Standard Container Benchmarker](https://github.com/oraqlle/cxx-container-testing)
-  - [jlox: Tree-Walking Interpreter for Lox Written in Java](https://github.com/oraqlle/jlox)
+  - [lispy: A simple interpreter for a lisp dialect in C](https://github.com/oraqlle/lispy)
 - Shader and VFX Demos Unreal Engine 5
   - [Collection of Shaders, Particle Effects and PCG](https://github.com/oraqlle/weekly-shader-labs)
   - [Lost Memory Scene](https://github.com/oraqlle/lost-memory-scene)
