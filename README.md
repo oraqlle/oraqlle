@@ -2,6 +2,8 @@
 
 Just a dude writing software.
 
+Aspiring graphics programmer.
+
 #### Info
 
 - ex-CEO of [Monash DeepNeuron](https://www.deepneuron.org/) for 2023/2024
