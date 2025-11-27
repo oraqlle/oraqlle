@@ -38,6 +38,7 @@ Aspiring software engineer and graphics programmer.
     Other Projects
   </summary>
 
+  * [Simple malloc implementation using first-fit and sbrk(2)](https://github.com/oraqlle/ymalloc)
   * [Base64 Decoder in Zig](https://github.com/oraqlle/Base64Decoder)
   * [C++ Standard Container Benchmarker](https://github.com/oraqlle/cxx-container-testing)
   * [Sorting Algorthim Visualizer (broken build system)](https://github.com/oraqlle/sorting-visualizer)
