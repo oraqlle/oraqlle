@@ -8,6 +8,7 @@ Aspiring software engineer and graphics programmer.
 * Fourth year student at Monash University
 * Interested in game dev, compilers/interpreters, operating systems and graphics programming.<!-- assembly  --> 
 * Current work:
+  * [sqlmini: Tiny sqlite3 clone in C](https://github.com/oraqlle/sqlmini)
   * [The C++ Programming Language: online book teaching C++](https://oraqlle.github.io/cpp-book)
   * [cxx-lox: Bytecode Interpreter for Lox written in C++](https://github.com/oraqlle/cxx-lox)
 * Noteworthy work:
