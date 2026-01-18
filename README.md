@@ -23,7 +23,7 @@ Software engineer and graphics programmer.
   * [Simple Voxel Engine using Python and ModernGL](https://codeberg.org/oraqlle/py-wolfenstein-3d)
   * [clox: Bytecode Interpreter for Lox written in C](https://codeberg.org/oraqlle/clox)
   * [jlox: Tree-Walking Interpreter for Lox Written in Java](https://codeberg.org/oraqlle/jlox)
-  * Co-author of MDN's [HPC Training Book](https://codeberg.org/MonashDeepNeuron/HPC-Training)
+  * Co-author of MDN's [HPC Training Book](https://monashdeepneuron.github.io/HPC-Training)
   * [lispy: A simple interpreter for a lisp dialect in C](https://codeberg.org/oraqlle/lispy)
  
 * Planned Future Work:
@@ -50,8 +50,6 @@ Software engineer and graphics programmer.
   * [Base64 Decoder in Zig](https://codeberg.org/oraqlle/Base64Decoder)
   * [C++ Standard Container Benchmarker](https://codeberg.org/oraqlle/cxx-container-testing)
   * [Sorting Algorthim Visualizer (broken build system)](https://codeberg.org/oraqlle/sorting-visualizer)
-  * [Some Advent of Code Solutions](https://codeberg.org/oraqlle/aoc)
-  * [Basic Terminal 2048 in various languages](https://codeberg.org/oraqlle/2048)
   * [Simple C Calculator](https://codeberg.org/oraqlle/c-calculator)
   * [cortexlib: Collection of C++ bits](https://codeberg.org/oraqlle/cortexlib)
   * [brainfuck implemented in C++](https://codeberg.org/oraqlle/brainfuck)
