@@ -1,6 +1,6 @@
 ### oraqlle
 
-Software engineer and graphics programmer.
+Software engineer and (learning) graphics programmer.
 
 #### Info
 
@@ -9,7 +9,7 @@ Software engineer and graphics programmer.
 * Interested in game dev, compilers/interpreters, operating systems and graphics programming.<!-- assembly  --> 
 
 > [!WARNING]
-> Source currently being migrated to [Codeberg](https://codeberg.org/oraqlle), some links may be broken.
+> Sources currently being migrated to [Codeberg](https://codeberg.org/oraqlle), some links may be broken.
 
 * Current work:
   * [sqlmini: Tiny sqlite3 clone in C](https://codeberg.org/oraqlle/sqlmini)
