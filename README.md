@@ -17,7 +17,7 @@ Software engineer and (learning) graphics programmer.
   * [The C++ Programming Language: online book teaching C++](https://oraqlle.github.io/cpp-book)
 
 * Noteworthy work:
-  * [gitgauge](https://codeberg.org/Monash-FIT3170/2025W1-Commitment): Git analytics for marking coursework (Monash FIT3170 Project)
+  * [gitgauge](https://github.com/Monash-FIT3170/2025W1-Commitment): Git analytics for marking coursework (Monash FIT3170 Project)
   * [kilo-c](https://codeberg.org/oraqlle/kilo-c): Implementation of antirez's kilo editor in C
   * [mdbook-godbolt](https://codeberg.org/oraqlle/mdbook-godbolt): Linking Godbolt and mdBook to enable Runable code snippets
   * [Mini Wolfenstein 3D clone using Python and ModernGL](https://codeberg.org/oraqlle/py-voxel-engine)
