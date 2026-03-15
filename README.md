@@ -12,13 +12,14 @@ Software engineer and (learning) graphics programmer.
 > Sources currently being migrated to [Codeberg](https://codeberg.org/oraqlle), some links may be broken.
 
 * Current work:
+  * [Sapling Game Engine](https://codeberg.org/oraqlle/sapling-engine)
   * [sqlmini: Tiny sqlite3 clone in C](https://codeberg.org/oraqlle/sqlmini)
   * [The C++ Programming Language: online book teaching C++](https://oraqlle.github.io/cpp-book)
 
 * Noteworthy work:
+  * [gitgauge](https://codeberg.org/Monash-FIT3170/2025W1-Commitment): Git analytics for marking coursework (Monash FIT3170 Project)
   * [kilo-c](https://codeberg.org/oraqlle/kilo-c): Implementation of antirez's kilo editor in C
   * [mdbook-godbolt](https://codeberg.org/oraqlle/mdbook-godbolt): Linking Godbolt and mdBook to enable Runable code snippets
-  * [gitgauge](https://codeberg.org/Monash-FIT3170/2025W1-Commitment): Git analytics for marking coursework (Monash FIT3170 Project)
   * [Mini Wolfenstein 3D clone using Python and ModernGL](https://codeberg.org/oraqlle/py-voxel-engine)
   * [Simple Voxel Engine using Python and ModernGL](https://codeberg.org/oraqlle/py-wolfenstein-3d)
   * [clox: Bytecode Interpreter for Lox written in C](https://codeberg.org/oraqlle/clox)
@@ -66,4 +67,3 @@ Software engineer and (learning) graphics programmer.
   * [Terminal Breakout](https://github.com/oraqlle/breakout-broken)
 
 </details>
-
