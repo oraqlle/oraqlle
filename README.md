@@ -5,7 +5,7 @@ Software engineer and (learning) graphics programmer.
 #### Info
 
 * ex-CEO of [Monash DeepNeuron](https://www.deepneuron.org/) for 2023/2024
-* Fifth year student at Monash University
+* Software Engineering Graduate from Monash University
 * Interested in game dev, compilers/interpreters, operating systems and graphics programming.<!-- assembly  --> 
 
 > [!WARNING]
@@ -20,8 +20,8 @@ Software engineer and (learning) graphics programmer.
   * [gitgauge](https://github.com/Monash-FIT3170/2025W1-Commitment): Git analytics for marking coursework (Monash FIT3170 Project)
   * [kilo-c](https://codeberg.org/oraqlle/kilo-c): Implementation of antirez's kilo editor in C
   * [mdbook-godbolt](https://codeberg.org/oraqlle/mdbook-godbolt): Linking Godbolt and mdBook to enable Runable code snippets
-  * [Mini Wolfenstein 3D clone using Python and ModernGL](https://codeberg.org/oraqlle/py-voxel-engine)
-  * [Simple Voxel Engine using Python and ModernGL](https://codeberg.org/oraqlle/py-wolfenstein-3d)
+  * [Simple Voxel Engine using Python and ModernGL](https://codeberg.org/oraqlle/py-voxel-engine)
+  * [Mini Wolfenstein 3D clone using Python and ModernGL](https://codeberg.org/oraqlle/py-wolfenstein-3d)
   * [clox: Bytecode Interpreter for Lox written in C](https://codeberg.org/oraqlle/clox)
   * [jlox: Tree-Walking Interpreter for Lox Written in Java](https://codeberg.org/oraqlle/jlox)
   * Co-author of MDN's [HPC Training Book](https://monashdeepneuron.github.io/HPC-Training)
