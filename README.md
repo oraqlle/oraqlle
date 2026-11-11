@@ -10,6 +10,7 @@ Graduate Software engineer and enthusiast graphics programmer.
   programming.<!-- assembly  --> 
 
 * Current work:
+  * [little os: Small x86 operating system](https://codeberg.org/oraqlle/little-os)
   * [G.L.O.W. House Game (Live Game): Education Game Teaching Kids about Household Electrification](https://cd-glowhouse.netlify.app/)
   * [Arcxel: Experimental Game Engine Testing Threading Architectures on Game Engine Workloads](https://github.com/oraqlle/arcxel)
   * [The C++ Programming Language: online book teaching C++](https://oraqlle.github.io/cpp-book)
