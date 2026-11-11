@@ -1,22 +1,22 @@
 ### oraqlle
 
-Software engineer and (learning) graphics programmer.
+Graduate Software engineer and enthusiast graphics programmer.
 
 #### Info
 
 * ex-CEO of [Monash DeepNeuron](https://www.deepneuron.org/) for 2023/2024
 * Software Engineering Graduate from Monash University
-* Interested in game dev, compilers/interpreters, operating systems and graphics programming.<!-- assembly  --> 
-
-> [!WARNING]
-> Sources currently being migrated to [Codeberg](https://codeberg.org/oraqlle), some links may be broken.
+* Interested in game development, compilers/interpreters, operating systems and graphics
+  programming.<!-- assembly  --> 
 
 * Current work:
-  * [Sapling Game Engine](https://codeberg.org/oraqlle/sapling-engine)
-  * [sqlmini: Tiny sqlite3 clone in C](https://codeberg.org/oraqlle/sqlmini)
+  * [G.L.O.W. House Game (Live Game): Education Game Teaching Kids about Household Electrification](https://cd-glowhouse.netlify.app/)
+  * [Arcxel: Experimental Game Engine Testing Threading Architectures on Game Engine Workloads](https://github.com/oraqlle/arcxel)
   * [The C++ Programming Language: online book teaching C++](https://oraqlle.github.io/cpp-book)
+  <!--* [Sapling Game Engine](https://codeberg.org/oraqlle/sapling-engine)-->
 
 * Noteworthy work:
+  * [sqlmini: Tiny sqlite3 clone in C](https://codeberg.org/oraqlle/sqlmini)
   * [gitgauge](https://github.com/Monash-FIT3170/2025W1-Commitment): Git analytics for marking coursework (Monash FIT3170 Project)
   * [kilo-c](https://codeberg.org/oraqlle/kilo-c): Implementation of antirez's kilo editor in C
   * [mdbook-godbolt](https://codeberg.org/oraqlle/mdbook-godbolt): Linking Godbolt and mdBook to enable Runable code snippets
@@ -24,6 +24,7 @@ Software engineer and (learning) graphics programmer.
   * [Mini Wolfenstein 3D clone using Python and ModernGL](https://codeberg.org/oraqlle/py-wolfenstein-3d)
   * [clox: Bytecode Interpreter for Lox written in C](https://codeberg.org/oraqlle/clox)
   * [jlox: Tree-Walking Interpreter for Lox Written in Java](https://codeberg.org/oraqlle/jlox)
+  * [Battle Area - Infinite: Unreal 5 BeatEmUp Game](https://github.com/oraqlle/beat-em-up-game)
   * Co-author of MDN's [HPC Training Book](https://monashdeepneuron.github.io/HPC-Training)
   * [lispy: A simple interpreter for a lisp dialect in C](https://codeberg.org/oraqlle/lispy)
  
@@ -32,9 +33,10 @@ Software engineer and (learning) graphics programmer.
  
 <details open>
   <summary>
-    Shader and VFX Demos Unreal Engine 5
+    Unreal Engine 5 Demos (Mechanics, Shaders and VFX)
   </summary>
 
+  * [Platformer Mechanics](https://github.com/oraqlle/platformer-mechanics)
   * [Collection of Shaders, Particle Effects and PCG](https://github.com/oraqlle/weekly-shader-labs)
   * [Lost Memory Scene](https://github.com/oraqlle/lost-memory-scene)
   * [Portal Particles](https://github.com/oraqlle/portal-particles)
@@ -59,7 +61,7 @@ Software engineer and (learning) graphics programmer.
 
 <details>
   <summary>
-    Publically Archived
+    Publicly Archived
   </summary>
 
   * [Broken and Slow Implementation of Pong](https://github.com/oraqlle/pong-broken)
